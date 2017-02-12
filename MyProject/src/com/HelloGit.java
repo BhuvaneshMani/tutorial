@@ -14,6 +14,6 @@ public class HelloGit {
 		System.out.println("This is simply awesome..");
 	}
 	
-	//Added new line
+	//Added new line - check
 
 }
