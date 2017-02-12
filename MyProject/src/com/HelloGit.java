@@ -13,5 +13,7 @@ public class HelloGit {
 	public void function2(String check){
 		System.out.println("This is simply awesome..");
 	}
+	
+	//Added new line
 
 }
