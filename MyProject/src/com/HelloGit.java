@@ -8,6 +8,9 @@ public class HelloGit {
 	}
 //Addednewfile
 	
+	public static void function2(){
+		//changes
+}
 	public static void function1(String a){
 		//added by person1
 	}
