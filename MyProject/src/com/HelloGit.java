@@ -10,7 +10,7 @@ public class HelloGit {
 	
 	public static void function2(){
 		String newVariable = "Bhuvanesh";
-		String[] teamMembers = {"ANilkumar", "Shahana"};
+		String[] teamMembers = {"ANilkumar", "Shahana","Senthil","Gokul"};
 		//changes
 }
 	public static void function1(String a){
