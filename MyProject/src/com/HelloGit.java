@@ -10,8 +10,10 @@ public class HelloGit {
 	
 	public static void function2(){
 		//changes
+		String newVariable = "1234";
 }
 	public static void function1(String a){
 		//added by person1
 	}
 }
+;
