@@ -9,6 +9,7 @@ public class HelloGit {
 //Addednewfile
 	
 	public static void function2(){
+		String newVariable = "Bhuvanesh";
 		//changes
 }
 	public static void function1(String a){
