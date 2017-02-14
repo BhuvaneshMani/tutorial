@@ -6,13 +6,5 @@ public class HelloGit {
 	public static void main(String[] args) {
 		System.out.println("hello world");
 	}
-	
-	
-	public void function2(String check){
-		System.out.println("This is simply awesome..");
-	}
-	
-	//I am new change
-	
 
 }
