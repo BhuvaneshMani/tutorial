@@ -7,13 +7,12 @@ public class HelloGit {
 		System.out.println("hello world");
 	}
 	
-	public void addedNewFile(){
-		System.out.println("Checking out integration");
-}
+	
 	public void function2(String check){
 		System.out.println("This is simply awesome..");
 	}
 	
-	//Added new line - check
+	//I am new change
+	
 
 }
