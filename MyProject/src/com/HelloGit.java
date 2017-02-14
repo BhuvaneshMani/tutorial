@@ -7,4 +7,8 @@ public class HelloGit {
 		System.out.println("hello world");
 	}
 //Addednewfile
+	
+	public static void function1(String a){
+		//added by person1
+	}
 }
